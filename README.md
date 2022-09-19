@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @tarabukinivan
-- 👀 I’m interested in IBM, php, nodes
-- 🌱 I’m currently learning information technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+This super page
 
 <!---
 tarabukinivan/tarabukinivan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
